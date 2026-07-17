@@ -1,8 +1,8 @@
 # UAS Pemrograman Berorientasi Objek (Dart)
 
-**Nama  :** Zaky Nabil Al Fikri
-**NIM   :** 251240001618
-**Tema  :** Sistem Pemesanan Tiket Bioskop
+**Nama**:Zaky Nabil Al Fikri
+**NIM**: 251240001618
+**Tema**: Sistem Pemesanan Tiket Bioskop
 
 ## Tentang Aplikasi
 Aplikasi ini adalah program CLI (terminal) sederhana untuk memesan tiket
