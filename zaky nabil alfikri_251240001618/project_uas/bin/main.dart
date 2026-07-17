@@ -5,7 +5,7 @@ import '../lib/controllers/manajer_tiket.dart';
 import '../lib/exceptions/data_tidak_valid_exception.dart';
 
 // Program : Sistem Pemesanan Tiket Bioskop
-// Nama    : Zaky Nabil Alfikri
+// Nama    : Zaky Nabil Al Fikri
 // NIM     : 251240001618
 
 final manajer = ManajerTiket();
